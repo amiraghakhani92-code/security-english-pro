@@ -1,9 +1,13 @@
-# Security English Pro
+# Security English Pro v2.2
 
-A workplace-English training app for Physical Security, Access Control, Badging, Identity Management, radio communication, phone calls, meetings, emails, and job interview preparation.
+This version includes 100 real workplace sentences.
 
-## Version
-Stable Vite/React version for Vercel deployment.
-
-## Mission
-This is not a general English app. It is built for real workplace communication in security and access management roles.
+## New
+- 100 sentences
+- Category filter
+- Search
+- Leitner review
+- Voice playback
+- Word playback
+- Recording playback
+- Writing and fill-in-the-blank practice
