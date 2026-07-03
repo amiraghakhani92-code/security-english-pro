@@ -1,3 +1,3 @@
-# Security English Pro v3.3
+# Security English Pro v3.4
 
-Adds Persian/English speech recognition, Play/Stop audio toggle, voice profiles, and progress charts.
+Fixes simulator flow, adds Next Simulation, 200 simulator scenarios, improved mic error messages, and keeps voice profiles.
