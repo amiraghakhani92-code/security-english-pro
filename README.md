@@ -1,13 +1,3 @@
-# Security English Pro v2.2
+# Security English Pro v3.0
 
-This version includes 100 real workplace sentences.
-
-## New
-- 100 sentences
-- Category filter
-- Search
-- Leitner review
-- Voice playback
-- Word playback
-- Recording playback
-- Writing and fill-in-the-blank practice
+Version 3.0 includes 300 workplace English sentences, category filter, search, favorites, Leitner review, voice playback, and recording playback.
