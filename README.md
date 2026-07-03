@@ -1,3 +1,3 @@
-# Security English Pro v3.1
+# Security English Pro v3.2
 
-Coach Mode, Study Planner, bilingual layout, UI settings, and 300 sentences.
+Unified dashboard with Simulator Hub: Radio, Phone, GSOC, Emergency/911.
