@@ -1,3 +1,3 @@
-# Security English Pro v3.2
+# Security English Pro v3.3
 
-Unified dashboard with Simulator Hub: Radio, Phone, GSOC, Emergency/911.
+Adds Persian/English speech recognition, Play/Stop audio toggle, voice profiles, and progress charts.
