@@ -1,3 +1,3 @@
-# Security English Pro v3.5
+# Security English Pro v3.6
 
-Cleaner simulator UI, deterministic Next Simulation, Show/Hide Subtitle, and 100 simulator scenarios.
+Real simulator bank: 200 unique simulator scenarios, sequential counter, subtitles, and simplified simulator UI.
