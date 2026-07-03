@@ -1,3 +1,3 @@
-# Security English Pro v3.4
+# Security English Pro v3.5
 
-Fixes simulator flow, adds Next Simulation, 200 simulator scenarios, improved mic error messages, and keeps voice profiles.
+Cleaner simulator UI, deterministic Next Simulation, Show/Hide Subtitle, and 100 simulator scenarios.
